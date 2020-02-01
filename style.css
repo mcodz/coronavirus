@@ -1,0 +1,12 @@
+html, body {
+    height: 100%
+}
+
+h5, h6 {
+    font-family: "Microsoft JhengHei"
+}
+
+#mapView {
+    width: 100%;
+    height: 100%;
+}
