@@ -136,6 +136,19 @@ var geojsonFeature = [
 {
     "type": "Feature",
     "properties": {
+        "desc_c": "葵青區 葵涌邨綠葵樓",
+        "desc_e": "Kwai Ching Luk Kwai House, Kwai Chung Estate",
+        "date": "30/1/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1260936, 22.3677771]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
         "desc_c": "九龍城區 黃埔花園第十一期一座",
         "desc_e": "Kowloon City Block 1, Site 11, Whampoa Garden",
         "date": "31/1/2020"

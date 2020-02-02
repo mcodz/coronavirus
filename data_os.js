@@ -5,8 +5,8 @@ var outboundFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "深圳: 170 確診病例",
-        "desc_e": "Shenzhen: 170 confirmed cases",
+        "desc_c": "深圳: 196 確診病例",
+        "desc_e": "Shenzhen: 196 confirmed cases",
     },
     "geometry": {
         "type": "Point",
