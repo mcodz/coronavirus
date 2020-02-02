@@ -6,6 +6,16 @@ h5, h6 {
     font-family: "Microsoft JhengHei"
 }
 
+.sub-brand::before {
+    content: "\A";
+    white-space: pre;
+}
+
+.sub-brand {
+    font-size: 12px;
+    line-height: 5px;
+}
+
 #mapView {
     width: 100%;
     height: 100%;
