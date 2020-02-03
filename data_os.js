@@ -5,8 +5,8 @@ var outboundFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "廣州: 179 確診病例",
-        "desc_e": "Guangzhou: 179 confirmed cases",
+        "desc_c": "廣州: 189 確診病例",
+        "desc_e": "Guangzhou: 189 confirmed cases",
     },
     "geometry": {
         "type": "Point",
@@ -17,8 +17,8 @@ var outboundFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "深圳: 207 確診病例",
-        "desc_e": "Shenzhen: 207 confirmed cases",
+        "desc_c": "深圳: 226 確診病例",
+        "desc_e": "Shenzhen: 226 confirmed cases",
     },
     "geometry": {
         "type": "Point",
@@ -41,8 +41,8 @@ var outboundFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "東莞: 27 確診病例",
-        "desc_e": "Dongguan: 27 confirmed cases",
+        "desc_c": "東莞: 31 確診病例",
+        "desc_e": "Dongguan: 31 confirmed cases",
     },
     "geometry": {
         "type": "Point",
@@ -53,8 +53,8 @@ var outboundFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "珠海: 47 確診病例",
-        "desc_e": "Zhuhai: 47 confirmed cases",
+        "desc_c": "珠海: 51 確診病例",
+        "desc_e": "Zhuhai: 51 confirmed cases",
     },
     "geometry": {
         "type": "Point",
@@ -65,8 +65,8 @@ var outboundFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "中山: 21 確診病例",
-        "desc_e": "Zhongshan: 21 confirmed cases",
+        "desc_c": "中山: 25 確診病例",
+        "desc_e": "Zhongshan: 25 confirmed cases",
     },
     "geometry": {
         "type": "Point",
