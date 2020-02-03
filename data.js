@@ -159,6 +159,19 @@ var geojsonFeature = [
     }
 },
 
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "油尖旺區 美麗都大廈 F 座",
+        "desc_e": "Yau Tsim Mong Mirador Mansion, Block F",
+        "date": "1/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1725817, 22.2973621]
+    }
+},
+
 ];
 
 
