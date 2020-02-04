@@ -172,6 +172,32 @@ var geojsonFeature = [
     }
 },
 
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "何文田區 半山壹號", // 16
+        "desc_e": "Ho Man Tin Celestial Heights",
+        "date": "4/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1861337, 22.3192781]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "藍田區 康田苑裕康閣", // 17
+        "desc_e": "Lam Tin Hong Tin Court Yue Hong House ",
+        "date": "4/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.2343586, 22.3077591]
+    }
+},
+
 ];
 
 
