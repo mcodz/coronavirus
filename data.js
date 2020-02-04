@@ -175,7 +175,7 @@ var geojsonFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "何文田區 半山壹號", // 16
+        "desc_c": "九龍城區 常盛街 80 號半山壹號十五號", // 16
         "desc_e": "Ho Man Tin Celestial Heights",
         "date": "4/2/2020"
     },
@@ -188,13 +188,26 @@ var geojsonFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "藍田區 康田苑裕康閣", // 17
-        "desc_e": "Lam Tin Hong Tin Court Yue Hong House ",
-        "date": "4/2/2020"
+        "desc_c": "觀塘 康田苑 裕康閣", // 17
+        "desc_e": "Lam Tin Hong Tin Court Yue Hong House",
+        "date": "31/1/2020"
     },
     "geometry": {
         "type": "Point",
         "coordinates": [114.2343586, 22.3077591]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "九龍城區 馬頭圍道 183 號", // 18
+        "desc_e": "Kowloon City 183 Ma Tau Wai Road",
+        "date": "31/1/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1876801, 22.3194059]
     }
 },
 
