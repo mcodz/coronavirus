@@ -5,8 +5,8 @@ var outboundFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "廣州: 224 確診病例",
-        "desc_e": "Guangzhou: 224 confirmed cases",
+        "desc_c": "廣州: 237 確診病例",
+        "desc_e": "Guangzhou: 237 confirmed cases",
     },
     "geometry": {
         "type": "Point",
@@ -17,12 +17,48 @@ var outboundFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "深圳: 271 確診病例",
-        "desc_e": "Shenzhen: 271 confirmed cases",
+        "desc_c": "深圳: 289 確診病例",
+        "desc_e": "Shenzhen: 289 confirmed cases",
     },
     "geometry": {
         "type": "Point",
         "coordinates": [114.0538691, 22.5538079]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "珠海: 69 確診病例",
+        "desc_e": "Zhuhai: 69 confirmed cases",
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [113.5683676, 22.2715044]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "東莞: 44 確診病例",
+        "desc_e": "Dongguan: 44 confirmed cases",
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [113.74505996, 23.043088]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "中山: 35 確診病例",
+        "desc_e": "Zhongshan: 35 confirmed cases",
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [113.3846472, 22.5171393]
     }
 },
 
@@ -37,42 +73,6 @@ var outboundFeature = [
         "coordinates": [113.5001116, 22.161817]
     }
 },
-
-{
-    "type": "Feature",
-    "properties": {
-        "desc_c": "東莞: 37 確診病例",
-        "desc_e": "Dongguan: 37 confirmed cases",
-    },
-    "geometry": {
-        "type": "Point",
-        "coordinates": [113.74505996, 23.043088]
-    }
-},
-
-{
-    "type": "Feature",
-    "properties": {
-        "desc_c": "珠海: 64 確診病例",
-        "desc_e": "Zhuhai: 64 confirmed cases",
-    },
-    "geometry": {
-        "type": "Point",
-        "coordinates": [113.5683676, 22.2715044]
-    }
-},
-
-{
-    "type": "Feature",
-    "properties": {
-        "desc_c": "中山: 31 確診病例",
-        "desc_e": "Zhongshan: 31 confirmed cases",
-    },
-    "geometry": {
-        "type": "Point",
-        "coordinates": [113.3846472, 22.5171393]
-    }
-}
 
 ];
 
