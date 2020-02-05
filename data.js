@@ -97,7 +97,7 @@ var geojsonFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "油尖旺區 香港 W 酒店",
+        "desc_c": "油尖旺區 香港 W 酒店", // 9, 10, 11
         "desc_e": "Yau Tsim Mong W Hong Kong",
         "date": "28/1/2020"
     },
@@ -110,20 +110,20 @@ var geojsonFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "中區 四季酒店",
-        "desc_e": "Central Four Seasons Hotel",
-        "date": "28/1/2020"
+        "desc_c": "油尖旺區 恒豐中心", // 16
+        "desc_e": "Yau Tsim Mong Prudential Centre",
+        "date": "29/1/2020"
     },
     "geometry": {
         "type": "Point",
-        "coordinates": [114.1584803, 22.3049382]
+        "coordinates": [114.1718372, 22.3043191]
     }
 },
 
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "油尖旺區 御金‧國峰第二座",
+        "desc_c": "油尖旺區 御金‧國峰第二座", // 9, 10, 11
         "desc_e": "Yau Tsim Mong Tower 2, The Coronation",
         "date": "30/1/2020"
     },
@@ -136,7 +136,7 @@ var geojsonFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "葵青區 葵涌邨綠葵樓",
+        "desc_c": "葵青區 葵涌邨綠葵樓", // 14
         "desc_e": "Kwai Ching Luk Kwai House, Kwai Chung Estate",
         "date": "30/1/2020"
     },
@@ -149,9 +149,22 @@ var geojsonFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "九龍城區 黃埔花園第十一期一座",
-        "desc_e": "Kowloon City Block 1, Site 11, Whampoa Garden",
+        "desc_c": "觀塘 康田苑 裕康閣", // 17, 19, 20
+        "desc_e": "Lam Tin Hong Tin Court Yue Hong House",
         "date": "31/1/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.2343586, 22.3077591]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "九龍城區 黃埔花園第十一期一座", // 13, 15
+        "desc_e": "Kowloon City Block 1, Site 11, Whampoa Garden",
+        "date": "1/2/2020"
     },
     "geometry": {
         "type": "Point",
@@ -162,8 +175,8 @@ var geojsonFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "油尖旺區 美麗都大廈 F 座",
-        "desc_e": "Yau Tsim Mong Mirador Mansion, Block F",
+        "desc_c": "油尖旺區 美麗都大廈",
+        "desc_e": "Yau Tsim Mong Mirador Mansion",
         "date": "1/2/2020"
     },
     "geometry": {
@@ -177,7 +190,7 @@ var geojsonFeature = [
     "properties": {
         "desc_c": "九龍城區 常盛街 80 號半山壹號十五號", // 16
         "desc_e": "Ho Man Tin Celestial Heights",
-        "date": "4/2/2020"
+        "date": "1/2/2020"
     },
     "geometry": {
         "type": "Point",
@@ -188,13 +201,13 @@ var geojsonFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "觀塘 康田苑 裕康閣", // 17
-        "desc_e": "Lam Tin Hong Tin Court Yue Hong House",
-        "date": "31/1/2020"
+        "desc_c": "葵青 九龍貿易中心第一座", // 18
+        "desc_e": "Kwai Tsing Tower 1, Kowloon Commerce Centre",
+        "date": "1/2/2020"
     },
     "geometry": {
         "type": "Point",
-        "coordinates": [114.2343586, 22.3077591]
+        "coordinates": [114.1876801, 22.3194059]
     }
 },
 
@@ -203,13 +216,42 @@ var geojsonFeature = [
     "properties": {
         "desc_c": "九龍城區 馬頭圍道 183 號", // 18
         "desc_e": "Kowloon City 183 Ma Tau Wai Road",
-        "date": "31/1/2020"
+        "date": "3/2/2020"
     },
     "geometry": {
         "type": "Point",
         "coordinates": [114.1876801, 22.3194059]
     }
 },
+
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "葵青 灝景灣第一座", // 21
+        "desc_e": "Kwai Tsing Block 1, Villa Esplanada",
+        "date": "3/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1057033, 22.3616983]
+    }
+},
+
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "油尖旺區 新港中心第二座", // 19
+        "desc_e": "Yau Tsim Mong Tower 2, Silvercord",
+        "date": "4/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1693631, 22.2974552]
+    }
+},
+
 
 ];
 
