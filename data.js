@@ -149,19 +149,6 @@ var geojsonFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "觀塘 康田苑 裕康閣", // 17, 19, 20
-        "desc_e": "Lam Tin Hong Tin Court Yue Hong House",
-        "date": "31/1/2020"
-    },
-    "geometry": {
-        "type": "Point",
-        "coordinates": [114.2343586, 22.3077591]
-    }
-},
-
-{
-    "type": "Feature",
-    "properties": {
         "desc_c": "九龍城區 黃埔花園第十一期一座", // 13, 15
         "desc_e": "Kowloon City Block 1, Site 11, Whampoa Garden",
         "date": "1/2/2020"
@@ -175,8 +162,8 @@ var geojsonFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "油尖旺區 美麗都大廈",
-        "desc_e": "Yau Tsim Mong Mirador Mansion",
+        "desc_c": "油尖旺區 彌敦道 58 號美麗都大廈",
+        "desc_e": "Yau Tsim Mong 58 Nathan Road, Mirador Mansion",
         "date": "1/2/2020"
     },
     "geometry": {
@@ -224,21 +211,6 @@ var geojsonFeature = [
     }
 },
 
-
-{
-    "type": "Feature",
-    "properties": {
-        "desc_c": "葵青 灝景灣第一座", // 21
-        "desc_e": "Kwai Tsing Block 1, Villa Esplanada",
-        "date": "3/2/2020"
-    },
-    "geometry": {
-        "type": "Point",
-        "coordinates": [114.1057033, 22.3616983]
-    }
-},
-
-
 {
     "type": "Feature",
     "properties": {
@@ -252,6 +224,58 @@ var geojsonFeature = [
     }
 },
 
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "觀塘 康田苑 裕康閣", // 17, 19, 20
+        "desc_e": "Lam Tin Hong Tin Court Yue Hong House",
+        "date": "31/1/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.2343586, 22.3077591]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "葵青 灝景灣第一座", // 21, 22
+        "desc_e": "Kwai Tsing Block 1, Villa Esplanada",
+        "date": "5/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1057033, 22.3616983]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "東區 筲箕灣道 142-146 號高望大樓", // 23
+        "desc_e": "Eastern Ko Mong building, 142 - 146 Shau Kei Wan Road",
+        "date": "5/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.2222611, 22.2812646]
+    }
+},
+
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "沙田 碩門邨第二期瑞碩樓", // 24
+        "desc_e": "Shatin Sui Shek House, Shek Mun Estate Phase II",
+        "date": "5/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.2094216, 22.3859247]
+    }
+},
 
 ];
 
