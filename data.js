@@ -263,7 +263,6 @@ var geojsonFeature = [
     }
 },
 
-
 {
     "type": "Feature",
     "properties": {
@@ -274,6 +273,32 @@ var geojsonFeature = [
     "geometry": {
         "type": "Point",
         "coordinates": [114.2094216, 22.3859247]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "北區 坑頭雍翠苑", // 25
+        "desc_e": "North District Serenity Garden, Hang Tau",
+        "date": "6/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1035515, 22.4943401]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "沙田 御龍山第 10 座", // 26
+        "desc_e": "Sha Tin Tower 10, The Palazzo",
+        "date": "6/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.199225, 22.3958323]
     }
 },
 
