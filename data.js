@@ -57,19 +57,6 @@ var geojsonFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "葵青 長康邨康美樓",
-        "desc_e": "Kwai Tsing Hong Mei House, Cheung Hong Estate",
-        "date": "24/1/2020"
-    },
-    "geometry": {
-        "type": "Point",
-        "coordinates": [114.0971083, 22.350361]
-    }
-},
-
-{
-    "type": "Feature",
-    "properties": {
         "desc_c": "東區 宇宙閣",
         "desc_e": "Eastern Universal Towers",
         "date": "25/1/2020"
@@ -351,6 +338,45 @@ var geojsonFeature = [
     "geometry": {
         "type": "Point",
         "coordinates": [114.1717719, 22.2782717]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "沙田 禾輋邨泰和樓", // 37
+        "desc_e": "Shatin Tai Wo House, Wo Che Estate",
+        "date": "9/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1951202, 22.3890276]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "東區 西灣河街 110 號祥長興大廈", // 38, 39, 40
+        "desc_e": "Eastern Cheung Hing Building, 110 Sai Wan Ho Street",
+        "date": "9/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.22185, 22.2814576]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "葵青 長康邨康美樓", // 12, 42
+        "desc_e": "Kwai Tsing Hong Mei House, Cheung Hong Estate",
+        "date": "9/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.0971083, 22.350361]
     }
 },
 

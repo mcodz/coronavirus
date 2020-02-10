@@ -5,8 +5,8 @@ var outboundFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "深圳: 368 確診病例",
-        "desc_e": "Shenzhen: 368 confirmed cases",
+        "desc_c": "深圳: 369 確診病例",
+        "desc_e": "Shenzhen: 369 confirmed cases",
     },
     "geometry": {
         "type": "Point",
@@ -17,8 +17,8 @@ var outboundFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "廣州: 313 確診病例",
-        "desc_e": "Guangzhou: 313 confirmed cases",
+        "desc_c": "廣州: 314 確診病例",
+        "desc_e": "Guangzhou: 314 confirmed cases",
     },
     "geometry": {
         "type": "Point",
