@@ -302,6 +302,58 @@ var geojsonFeature = [
     }
 },
 
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "黃大仙 彩峰苑", // 28
+        "desc_e": "Wong Tai Sin Choi Fung Court",
+        "date": "8/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.2130139, 22.3348831]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "灣仔 駱克道 356-362 號鴻福大廈", // 27, 29, 30, 31
+        "desc_e": "Wan Chai Hung Fook Mansion, 356-362 Lockhart Road",
+        "date": "8/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1791109, 22.2790869]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "灣仔 禮頓道 42-56 號禮智大廈", // 32, 34, 35
+        "desc_e": "Wan Chai Lai Chi building, 42-56 Leighton Road",
+        "date": "8/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1840544, 22.2774638]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "灣仔 駱克道 89 號中滙大廈", // 33, 36
+        "desc_e": "Wan Chai Central Tower, 89 Lockhart Road",
+        "date": "9/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1717719, 22.2782717]
+    }
+},
+
 ];
 
 
