@@ -370,13 +370,78 @@ var geojsonFeature = [
 {
     "type": "Feature",
     "properties": {
-        "desc_c": "葵青 長康邨康美樓", // 12, 42
+        "desc_c": "葵青 長康邨康美樓", // 12, 42, 48, 49
         "desc_e": "Kwai Tsing Hong Mei House, Cheung Hong Estate",
         "date": "9/2/2020"
     },
     "geometry": {
         "type": "Point",
         "coordinates": [114.0971083, 22.350361]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "東區 藍灣半島第三座", // 43
+        "desc_e": "Eastern Block 3, Island Resort",
+        "date": "10/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.2507523, 22.2662664]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "南區 利東邨東平樓", // 44
+        "desc_e": "Southern District Tung Ping House, Lei Tung Estate",
+        "date": "10/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1574226, 22.2417673]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "西貢區 寶林邨寶仁樓", // 45
+        "desc_e": "Sai Kung Po Yan House, Po Lam Estate",
+        "date": "10/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.2527381, 22.3259652]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "南區 田灣邨田澤樓", // 46
+        "desc_e": "Southern District Tin Chak House, Tin Wan Estate",
+        "date": "10/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1508121, 22.252404]
+    }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "屯門 良田村", // 47
+        "desc_e": "Tuen Mun Leung Tin Village",
+        "date": "10/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [113.9779565, 22.3992172]
     }
 },
 
