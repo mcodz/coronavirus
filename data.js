@@ -445,6 +445,19 @@ var geojsonFeature = [
     }
 },
 
+{
+    "type": "Feature",
+    "properties": {
+        "desc_c": "葵青 長安邨安濤樓", // 50
+        "desc_e": "Kwai Tsing On Tao House, Cheung On Estate",
+        "date": "10/2/2020"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [114.1021871, 22.3613416]
+    }
+},
+
 ];
 
 
